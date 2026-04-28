@@ -8,6 +8,7 @@ Download the SEED dataset at https://bcmi.sjtu.edu.cn/home/seed/seed.html
 
 ## Directory Structure
 
+```
 SEED_EEG/
 ├── Preprocessed_EEG/
 │   ├── label.mat
@@ -16,6 +17,7 @@ SEED_EEG/
 ├── organizing_and_padding_dataset.ipynb
 ├── extracting_DE_features.ipynb
 └── model.ipynb
+```
 
 
 ## How to Run
